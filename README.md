@@ -23,3 +23,6 @@ View License File in Repository
 
 ## LINK 
 WEBPAGE: https://bakairou.github.io/HoriseonUpdate
+
+## Screenshot
+<img width="1469" alt="Screen Shot 2023-03-03 at 7 54 48 AM" src="https://user-images.githubusercontent.com/111259830/222725548-a0c006d4-43e6-4120-a3bc-4b2b66f26ab7.png">
